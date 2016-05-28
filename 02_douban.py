@@ -9,6 +9,14 @@
 #实例二：依然爬取豆瓣，采用伪装浏览器的方式
 
 import urllib.request
+
+#定义保存函数
+def saveFile(data):
+    path = "E:\\projects\\Spider\\02_douban.out"
+    f = open(path,'wb')
+    f.write(data)
+    f.close()
+
 #网址
 url = "https://www.douban.com/"
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -19,9 +27,14 @@ res = urllib.request.urlopen(req)
 
 data = res.read()
 
-data = data.decode('utf-8')
+#也可以把爬取的内容保存到文件中
+saveFile(data)
 
+data = data.decode('utf-8')
+#打印抓取的内容
 print(data)
+
+
 #打印爬取网页的各类信息
 print(type(res))
 print(res.geturl())
