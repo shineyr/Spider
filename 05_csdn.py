@@ -1,5 +1,5 @@
 '''
-program: csdn博客爬虫
+program: csdn博文爬虫
 function: 实现对我的csdn主页所有博文的日期、主题、访问量、评论个数信息爬取
 
 version: python 3.5.1
