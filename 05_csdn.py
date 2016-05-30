@@ -4,7 +4,7 @@ function: 实现对我的csdn主页所有博文的日期、主题、访问量、
 
 version: python 3.5.1
 time: 2016/05/29
-autuor: yr
+author: yr
 '''
 
 import urllib.request,re,time,random,gzip
