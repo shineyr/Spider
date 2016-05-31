@@ -1,0 +1,175 @@
+2016-05-31 16:16:47+0800 [scrapy] INFO: Scrapy 0.24.2 started (bot: tencentRecruit)
+2016-05-31 16:16:47+0800 [scrapy] INFO: Optional features available: ssl, http11, boto, django
+2016-05-31 16:16:47+0800 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'tencentRecruit.spiders', 'SPIDER_MODULES': ['tencentRecruit.spiders'], 'LOG_LEVEL': 'INFO', 'BOT_NAME': 'tencentRecruit'}
+2016-05-31 16:16:47+0800 [scrapy] INFO: Enabled extensions: LogStats, TelnetConsole, CloseSpider, WebService, CoreStats, SpiderState
+2016-05-31 16:16:48+0800 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2016-05-31 16:16:48+0800 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2016-05-31 16:16:48+0800 [scrapy] INFO: Enabled item pipelines: JsonWithEncodingTencentPipeline
+2016-05-31 16:16:48+0800 [tencentRecruitSpider] INFO: Spider opened
+2016-05-31 16:16:48+0800 [tencentRecruitSpider] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2016-05-31 16:16:48+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=10>
+2016-05-31 16:16:48+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1430>
+2016-05-31 16:16:48+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=20>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=50>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=70>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=60>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=30>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=40>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=0>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=80>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=100>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1390>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=90>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1400>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1380>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1370>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1410>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1360>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1420>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1350>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=110>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=130>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=120>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1340>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1330>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1320>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=150>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1310>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=160>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=140>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1290>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1300>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1280>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=180>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=170>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1270>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=190>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1250>
+2016-05-31 16:16:49+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1260>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=200>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1240>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=210>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1230>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=220>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1210>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1220>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=230>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=240>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1200>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1190>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=250>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1170>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1180>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=260>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=270>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1160>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1150>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=280>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1140>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1130>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1120>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1110>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=300>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=290>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=310>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1100>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1090>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1080>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1070>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=330>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=320>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=340>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1060>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1050>
+2016-05-31 16:16:50+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1040>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1030>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=360>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=350>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=370>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1020>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1010>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=1000>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=990>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=380>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=390>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=400>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=980>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=970>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=960>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=410>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=950>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=420>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=430>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=940>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=920>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=930>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=450>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=910>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=440>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=460>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=900>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=880>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=890>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=470>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=480>
+2016-05-31 16:16:51+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=860>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=490>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=870>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=840>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=850>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=830>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=820>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=500>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=510>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=810>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=520>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=540>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=780>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=530>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=800>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=790>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=550>
+2016-05-31 16:16:52+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=770>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=760>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=560>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=750>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=740>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=570>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=580>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=730>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=720>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=710>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=610>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=590>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=700>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=690>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=600>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=680>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=670>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=640>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=630>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=620>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=660>
+2016-05-31 16:16:53+0800 [scrapy] INFO: parsed <200 http://hr.tencent.com/position.php?start=650>
+2016-05-31 16:16:53+0800 [tencentRecruitSpider] INFO: Closing spider (finished)
+2016-05-31 16:16:53+0800 [tencentRecruitSpider] INFO: Dumping Scrapy stats:
+	{'downloader/request_bytes': 48938,
+	 'downloader/request_count': 146,
+	 'downloader/request_method_count/GET': 146,
+	 'downloader/response_bytes': 569713,
+	 'downloader/response_count': 146,
+	 'downloader/response_status_count/200': 146,
+	 'dupefilter/filtered': 1158,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2016, 5, 31, 8, 16, 53, 668949),
+	 'item_scraped_count': 1446,
+	 'log_count/INFO': 152,
+	 'request_depth_max': 21,
+	 'response_received_count': 146,
+	 'scheduler/dequeued': 146,
+	 'scheduler/dequeued/memory': 146,
+	 'scheduler/enqueued': 146,
+	 'scheduler/enqueued/memory': 146,
+	 'start_time': datetime.datetime(2016, 5, 31, 8, 16, 48, 517642)}
+2016-05-31 16:16:53+0800 [tencentRecruitSpider] INFO: Spider closed (finished)
