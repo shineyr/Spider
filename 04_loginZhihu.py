@@ -61,8 +61,8 @@ _xsrf = getXsrf(data.decode('utf-8'))
 opener = getOpener(headers)
 #post数据接收和处理的页面（我们要向这个页面发送我们构造的Post数据）
 url+='login/email'
-name='fly_yr2012@163.com'
-passwd='zhihu2016'
+name='***************'
+passwd='******'
 
 #分析构造post数据
 postDict={
