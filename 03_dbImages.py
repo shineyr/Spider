@@ -35,7 +35,7 @@ res = urllib.request.urlopen(req)
 
 data = res.read()
 
-for link,t in set(re.findall(r'(https:[^s]*?(jpg|png|gif))', str(data))):
+for link,t in set(re.findall(r'(https:[\S]*?(jpg|png|gif))', str(data))):
 
     print(link)
     try:
